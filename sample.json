@@ -1,0 +1,38 @@
+[
+  {
+    "documentId" : "1",
+    "docType" : "pdf",
+    "docAuthor" : "Java Developer Zone",
+    "docTitle" : "Java Blog",
+    "isParent" : true,
+    "parentDocId" : 0,
+    "docLanguage" : ["en","fr"]
+  },
+  {
+    "documentId" : "2",
+    "docType" : "pdf",
+    "docAuthor" : "Java Developer Zone",
+    "docTitle" : "Spring boot Blog",
+    "isParent" : true,
+    "parentDocId" : 0,
+    "docLanguage" : ["en","fr"]
+  },
+  {
+    "documentId" : "5",
+    "docType" : "pdf",
+    "docAuthor" : "Java Developer Zone",
+    "docTitle" : "Solr Blog",
+    "isParent" : false,
+    "parentDocId" : 1,
+    "docLanguage" : ["fr","slovak"]
+  },
+  {
+    "documentId" : "8",
+    "docType" : "pdf",
+    "docAuthor" : "Java Developer Zone",
+    "docTitle" : "Elastic Search Blog",
+    "isParent" : false,
+    "parentDocId" : 1,
+    "docLanguage" : ["en","czech"]
+  }
+]
