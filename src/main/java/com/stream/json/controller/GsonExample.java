@@ -18,6 +18,7 @@ public class GsonExample {
         String jsonFilePath = "/Users/nagabushankampli/git/json/sample.json";
         GsonExample gsonExample = new GsonExample();
         gsonExample.parse(jsonFilePath);
+        //updated
 
 
     }
